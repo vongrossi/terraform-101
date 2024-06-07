@@ -90,4 +90,4 @@ Terraform é uma ferramenta de **Infraestrutura como Código (IaC)** desenvolvid
 | **Chef**        | Configuração, Declarativa | DSL        | Multi      | Automação de infraestrutura               |
 | **Pulumi**      | IaC, Declarativa/Imperativa | Python, TypeScript, etc. | Multi | Infraestrutura como código com linguagens de programação |
 
-Essa seção introduz o Terraform e destaca suas vantagens e diferenças em relação a outras ferramentas de IaC, proporcionando uma visão clara sobre quando e por que utilizar Terraform.
+Essa seção tem como objetivo introduzir o Terraform e destacar suas vantagens e  as principais diferenças em relação a outras ferramentas de IaC, proporcionando uma visão clara sobre quando e por que utilizar Terraform.
